@@ -18,4 +18,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dixitshiv&show_icons=true&theme=radical)
 
 ### 📫 Connect with me:
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.shivamdixit.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-dixit-7860701a9/)
